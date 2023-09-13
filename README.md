@@ -1,7 +1,7 @@
 # EE-309-RISC-Pipelined
 Microprocessor Course project 
 
-** Please refer my other project named IITB-CPU for multicycle RISC processor **
+[** Please refer my other project named IITB-CPU for multicycle RISC processor **](https://github.com/12DEVESH/IITB-CPU-)
 
 https://github.com/12DEVESH/IITB-CPU-
 
